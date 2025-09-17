@@ -51,4 +51,4 @@ SQL, BigQuery, Looker Studio
 - `is_unsubscribed` - чи відписався абонент.
 
 ### 📈 ***Візуалізація в Looker Studio***
-[Email & Account Activity by Country](https://lookerstudio.google.com/u/0/reporting/6bce2be8-759d-45f6-b4b7-b25a3049d377/page/tEnnC)
+[Email & Account Activity by Country](https://lookerstudio.google.com/reporting/6bce2be8-759d-45f6-b4b7-b25a3049d377)
